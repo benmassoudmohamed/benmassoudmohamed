@@ -1,0 +1,10 @@
+.section{
+    background-color: #503446;
+}
+.form{
+   display: flex;
+   flex-direction: column;
+   height: 500px;
+   align-items: center;
+   justify-content:space-around;
+}
